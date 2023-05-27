@@ -1,0 +1,11 @@
+T1, adult, 25
+T2, child, 19.5
+T3, senior, 17
+T4, student, 20.5
+T5, concession, 20.5
+G6, Family3, adult, 1, child, 2
+G7, Family4, adult, 2, child, 2
+G8, GrandFamily, adult, 2, T3, 2, child, 1
+G9, Friend4, T1, 4
+G10, Student4, student, 4
+G11, Test, adult, 2
